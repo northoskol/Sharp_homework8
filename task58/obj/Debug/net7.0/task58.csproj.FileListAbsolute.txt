@@ -1,0 +1,15 @@
+F:\GITed\C# sharp\homework\homework_8\task58\bin\Debug\net7.0\task58.exe
+F:\GITed\C# sharp\homework\homework_8\task58\bin\Debug\net7.0\task58.deps.json
+F:\GITed\C# sharp\homework\homework_8\task58\bin\Debug\net7.0\task58.runtimeconfig.json
+F:\GITed\C# sharp\homework\homework_8\task58\bin\Debug\net7.0\task58.dll
+F:\GITed\C# sharp\homework\homework_8\task58\bin\Debug\net7.0\task58.pdb
+F:\GITed\C# sharp\homework\homework_8\task58\obj\Debug\net7.0\task58.csproj.AssemblyReference.cache
+F:\GITed\C# sharp\homework\homework_8\task58\obj\Debug\net7.0\task58.GeneratedMSBuildEditorConfig.editorconfig
+F:\GITed\C# sharp\homework\homework_8\task58\obj\Debug\net7.0\task58.AssemblyInfoInputs.cache
+F:\GITed\C# sharp\homework\homework_8\task58\obj\Debug\net7.0\task58.AssemblyInfo.cs
+F:\GITed\C# sharp\homework\homework_8\task58\obj\Debug\net7.0\task58.csproj.CoreCompileInputs.cache
+F:\GITed\C# sharp\homework\homework_8\task58\obj\Debug\net7.0\task58.dll
+F:\GITed\C# sharp\homework\homework_8\task58\obj\Debug\net7.0\refint\task58.dll
+F:\GITed\C# sharp\homework\homework_8\task58\obj\Debug\net7.0\task58.pdb
+F:\GITed\C# sharp\homework\homework_8\task58\obj\Debug\net7.0\task58.genruntimeconfig.cache
+F:\GITed\C# sharp\homework\homework_8\task58\obj\Debug\net7.0\ref\task58.dll
